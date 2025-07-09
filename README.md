@@ -1,24 +1,21 @@
-# 🏗️ Construction Management System
+# Construction Management System 🏗️
 
-A web-based Construction Management System designed to streamline and organize construction projects, tasks, worker management, and progress tracking.
+This is a web-based Construction Management System that helps manage:
 
-## 🚀 Features
+- Project details
+- Materials inventory
+- Orders and payments
+- Attendance and login/logout tracking
 
-- 🧱 Project & Task Management  
-- 👷 Worker Assignment & Tracking  
-- 🗓️ Deadline and Schedule Monitoring  
-- 📊 Progress Updates and Reporting  
-- 🔐 Admin Authentication  
-- 📁 File Upload/Download Support (e.g., blueprints, documents)
+## Technologies Used
+- HTML, CSS, JavaScript
+- Java (Servlets)
+- Git + GitHub for version control
 
-## 🛠️ Technologies Used
+## How to Run
+1. Clone the repo
+2. Open with VS Code
+3. Use a local server like Live Server for HTML pages
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
-- **Backend:** PHP  
-- **Database:** MySQL  
-- **Version Control:** Git, GitHub
-
-## 📂 Folder Structure
-
-Construction_Management_System/ ├── admin/ ├── assets/ ├── config/ ├── includes/ ├── user/ ├── index.php └── README.md
-
+## Author
+Ayush Vakani
